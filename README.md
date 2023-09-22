@@ -1,6 +1,6 @@
 # Network Studies - Creating a Sockets Client
 
-Project written in Python using the Sockets library, created for my studies of TCP and UDP connections, among other network connections and communications. Its main objective is to create communication between the client and the local server remotely. It will also make it easier to create a reverse shell with the target of the connection.
+Project written in Python using the Sockets library, created for my studies of TCP and UDP connections, among other network connections and communications. The main objective is  create communication between the client and the local server remotely. Will also make it easier reverse shell with the target of the connection.
 
 ### Main features: 
 
