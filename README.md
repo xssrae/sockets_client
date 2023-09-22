@@ -9,4 +9,3 @@ Project written in Python using the Sockets library, created for my studies of T
 > A server to check the current requested connection
 
 Project in progress. New features will be added over time
-# sockets_client
